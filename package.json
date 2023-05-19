@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://marcelstancudev.github.io/apple-website-clone/",
+  "homepage": "https://marcelstancudev.github.io/apple-website-clone",
   "type": "module",
   "scripts": {
     "dev": "vite",
